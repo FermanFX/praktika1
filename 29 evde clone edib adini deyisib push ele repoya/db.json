@@ -1,0 +1,67 @@
+{
+    "singers": [
+      {
+        "id":1,
+        "name":"Adele",
+        "image":"https://www.billboard.com/wp-content/uploads/2022/04/adele-brit-awards-carpet-2022-billboard-1548.jpg?w=942&h=623&crop=1",
+        "country":"British",
+        "price": 50.95,
+        "count": 120
+
+      },
+      {
+        "id":2,
+        "name":"Beyonce6",
+        "image":"https://static01.nyt.com/images/2023/02/02/multimedia/01beyonce-item-lmcz/01beyonce-item-lmcz-videoSixteenByNineJumbo1600.jpg",
+        "country":"American",
+        "price": 50.95,
+        "count": 120
+        
+      },
+      {
+        "id":3,
+        "name":"Ed Sheran",
+        "image":"https://people.com/thmb/bPNzM3jeKBFF9wYXIENnqFgAFLY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():focal(749x0:751x2)/ed-sheeran-Lets-Get-It-On-Copyright-Lawsuit-verdict-050323-df575d8d46f54ca580195f41b902d9c1.jpg",
+        "country":"British",
+        "price": 50.95,
+        "count": 120
+        
+      },
+      {
+        "id":4,
+        "name":"The Weeknd",
+        "image":"https://variety.com/wp-content/uploads/2020/06/unnamed-1-2-e1593560403821.jpg",
+        "country":"Canadian",
+        "price": 50.95,
+        "count": 120
+        
+      },
+      {
+        "id":5,
+        "name":"Kanye West",
+        "image":"https://cdn.scpsassam.org/wp-content/uploads/2023/07/download-11.jpg",
+        "country":"American",
+        "price": 50.95,
+        "count": 120
+        
+      },
+      {
+        "id":6,
+        "name":"Joji",
+        "image":"https://i.ytimg.com/vi/K09_5IsgGe8/sddefault.jpg?v=5e3c2b13",
+        "country":"Japanese",
+        "price": 50.95,
+        "count": 120
+        
+      },
+      {
+        "id":7,
+        "name":"Frank Ocean",
+        "image":"https://media.gq-magazine.co.uk/photos/5d139d742881cc95de0a88fb/1:1/w_1280,h_1280,c_limit/Frank-Ocean-hp-GQ-19Apr17_b.jpg",
+        "country":"American",
+        "price": 50.95,
+        "count": 120
+        
+      }
+    ]
+  }
