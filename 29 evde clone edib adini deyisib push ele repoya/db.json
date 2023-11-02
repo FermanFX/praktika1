@@ -63,5 +63,84 @@
         "count": 120
         
       }
+    ],
+    "users":[
+      {
+        "id":"1",
+        "username":"elnurxo",
+        "password":"Admin123",
+        "email":"elnur@gmail.com",
+        "balance": 10.1020210430423,
+        "orders":[
+          {
+            "id":355,
+            "totalPrice":"41.97",
+            "orderDate":"Nov 1st 2023, 02:24 am"
+          },
+          {
+            "id":824,
+            "totalPrice":"68.95",
+            "orderDate":"Now 1st 2023 02:25 am"
+          },
+          {
+            "id":410,
+            "totalPrice":"8.49",
+            "orderDate":"Now 1st 2023 02:26 am"
+          },
+          {
+            "id":212,
+            "totalPrice":"11.96",
+            "orderDate":"Now 1st 2023 02:26 am"
+          },
+          {
+            "id":565,
+            "totalPrice": "8.49",
+            "orderDate":"Now 1st 2023 01:54 am"
+          }
+        ]
+      }
+    ],
+    "meals":[
+      {
+        "id":1,
+        "name":"Sushi",
+        "price":15.99,
+        "Ingredients":[
+          "Rice",
+          "Fish",
+          "Seowood",
+          "Soy Source",
+          "Wasabi",
+          "Pickled Ginger"
+        ],
+        "imageLink":"https://www.seriouseats.com/thmb/-osPdxHxCxTuA6UL7ABekRdjkSo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/__opt__aboutcom__coeus__resources__content_migration__serious_eats__seriouseats.com__2020__12__20201203-indonesian-pantry-vicky-wasik-1-b827da1c26134cf18153da281f8efb19.jpg"
+      },
+      {
+        "id":2,
+        "name":"Spaghetti Carbonara",
+        "price":"12.99",
+        "Ingredients":[
+          "Pasta",
+          "Pancetta or Guanciale",
+          "Eggs",
+          "Parmesan Cheese",
+          "Black Peper"
+        ],
+        "imageLink":"https://images.immediate.co.uk/production/volatile/sites/30/2020/08/recipe-image-legacy-id-1001491_11-2e0fa5c.jpg?resize=768,574"
+      },
+      {
+        "id":3,
+        "name":"Taco",
+        "price":8.49,
+        "Ingredients":[
+          "Tortilla",
+          "Ground Beef or Chicken",
+          "Lettuce",
+          "Tomato",
+          "Cheese",
+          "Salsa"
+        ],
+        "imageLink":"https://images-gmi-pmc.edge-generalmills.com/e59f255c-7498-4b84-9c9d-e578bf5d88fc.jpg"
+      }
     ]
   }
