@@ -1,0 +1,58 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300..800;1,300..800&family=Playwrite+MX+Guides&family=Roboto+Mono:ital,wght@0,100..700;1,100..700&display=swap');
+*{
+    padding: 0%;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: "Roboto Mono", monospace;
+}
+body{
+    background-image: url(./1573688166553.jpg);
+    background-repeat: repeat;
+    background-size:cover ;
+    
+    
+}
+nav{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    height: 3em;
+    background-color: black;
+    ul{
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        list-style: none;
+        
+        img{
+            height: 2em;
+            width: 2em;
+            border-radius: 1em;
+            margin-left: 0.5em;
+        }
+        div{
+            input{
+                width: 5em;
+                border: none;
+                
+            }
+            i{
+                color: rgb(66, 114, 155);
+                margin-right: 0.2em;
+            }
+        }
+        li{
+            color: aliceblue;
+            margin: 1em;
+            i{
+                color: aliceblue;
+
+            }
+            
+        }
+    }
+}
+h2{
+    margin:15em 35em 0 3em;
+    color: aliceblue;
+}
